@@ -65,6 +65,10 @@ body {
   background: #AF0171;
   color: white;
 }
+.fist-slide {
+  max-width: 100%;
+  height: auto;
+}
 
 
 /* MARKETING CONTENT
@@ -89,6 +93,10 @@ body {
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+.rounded-circle{
+border-radius: 50%;
+
 }
 
 /* Thin out the marketing headings */
