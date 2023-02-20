@@ -88,6 +88,13 @@ body {
   margin-left: .75rem;
 }
 
+.navbar-brand {
+  background-color: black;
+}
+.nav-link {
+background-color: black;
+
+}
 
 /* Featurettes
 ------------------------- */
@@ -96,7 +103,7 @@ body {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 .rounded-circle{
-border-radius: 50%;
+border-radius: 20%;
 
 }
 
