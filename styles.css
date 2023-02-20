@@ -65,6 +65,11 @@ body {
   background: #AF0171;
   color: white;
 }
+.fist-slide {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
 
 
 /* MARKETING CONTENT
@@ -83,12 +88,25 @@ body {
   margin-left: .75rem;
 }
 
+.navbar-brand {
+  background-color: black;
+  color: black;
+}
+.nav-link {
+background-color: black;
+color: black;
+
+}
 
 /* Featurettes
 ------------------------- */
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+.rounded-circle{
+border-radius: 20%;
+
 }
 
 /* Thin out the marketing headings */

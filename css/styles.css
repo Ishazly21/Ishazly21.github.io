@@ -90,9 +90,11 @@ body {
 
 .navbar-brand {
   background-color: black;
+  color: black;
 }
 .nav-link {
 background-color: black;
+color: black;
 
 }
 
